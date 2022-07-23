@@ -1,0 +1,32 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.formatOnSave": false,
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": [
+    "boxicon",
+    "Boxicons",
+    "cloudinary",
+    "datetime",
+    "formify",
+    "headlessui",
+    "heroicon",
+    "Heroicons",
+    "lato",
+    "nunito",
+    "tinacms",
+    "tinafield"
+  ],
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.tina/__generated__": true
+  }
+}

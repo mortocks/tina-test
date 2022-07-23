@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "siteTitle": "always",
+    "siteDescription": "Subscription dental supplies"
+  },
+  "header": {
+    "icon": {
+      "color": "blue",
+      "style": "float",
+      "name": "code"
+    },
+    "color": "default",
+    "nav": [
+      {
+        "href": "home",
+        "label": "Home"
+      },
+      {
+        "href": "getting-started",
+        "label": "Getting started"
+      },
+      {
+        "href": "about",
+        "label": "About"
+      },
+      {
+        "href": "posts",
+        "label": "Blog"
+      }
+    ]
+  },
+  "footer": {
+    "color": "default",
+    "social": {
+      "facebook": "/",
+      "twitter": "/",
+      "instagram": "/"
+    }
+  },
+  "theme": {
+    "color": "blue",
+    "font": "sans",
+    "icon": "boxicon",
+    "darkMode": "light"
+  }
+}
